@@ -8,4 +8,4 @@ Pyramide = (pyramideHeight) => {
         console.log(myNum);
     }
 }
-Pyramide();
+Pyramide(5);
